@@ -1,3 +1,3 @@
 # 📈 ENSF 544 - Data Science for Software Engineers
 
-Hello! This contains all work done so far for the course.
+Course Description: Fundamental topics in data collection, preparation, exploration, mining and machine learning will be covered with a focus on software development.
